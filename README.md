@@ -5,7 +5,7 @@
 
 **랩미팅용 임시 리드미 작업**
 
-Append `HAEMOSU PATH` to the `bashrc`
+Append `HAEMOSU PATH` to the `~/.bashrc`
 ```
 export PATH=/path_to_haemosu-gui/:$PATH
 export PATH=/path_to_haemosu-gui/haemosu-command:$PATH
