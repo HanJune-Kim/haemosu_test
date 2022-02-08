@@ -1,0 +1,3 @@
+adaptor seq	class1-setatosis	class2-fibrosis	confounder1-bmi	confounder2-height	single
+TTCTCTCT	steatosis1	severe-4	33.4	198.2	/home/s1
+ECECC	steatosis3	severe-2	44.2	928.1	/home/s2
