@@ -15,7 +15,10 @@ You can also install HAEMOSU-gui manually.
 
 HAEMOSU-gui requres `PyQt6`, which can be installed through `pip`, `conda`.
 Please type the following codes in command line
+
 ```
+cd path_to_your_folder/
+git clone https://github.com/HanJune-Kim/haemosu_test.git
 pip install PyQt6 PyQt6-WebEngine pyqtdarktheme psutil pandas 
 ```
 
