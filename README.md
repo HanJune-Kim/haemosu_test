@@ -5,6 +5,20 @@
 
 **랩미팅용 임시 리드미 작업**
 
+HAEMOSU-gui can be install through `pip`, `conda`.
+```
+pip install -i https://test.pypi.org/simple/ haemosu-gui
+or
+conda install --use-local haemosu
+```
+You can also install HAEMOSU-gui manually.
+
+HAEMOSU-gui requres `PyQt6`, which can be installed through `pip`, `conda`.
+Please type the following codes in command line
+```
+pip install PyQt6 PyQt6-WebEngine pyqtdarktheme psutil pandas 
+```
+
 Append `HAEMOSU PATH` to the `~/.bashrc`
 ```
 export PATH=/path_to_haemosu-gui/:$PATH
