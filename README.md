@@ -6,6 +6,8 @@
 **랩미팅용 임시 리드미 작업**
 
 HAEMOSU-gui can be install through `pip`, `conda`.
+
+pip : https://test.pypi.org/project/haemosu-gui/
 ```
 pip install -i https://test.pypi.org/simple/ haemosu-gui
 or
